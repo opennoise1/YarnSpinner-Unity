@@ -312,6 +312,9 @@ namespace Yarn.Unity {
             onLineFinishDisplaying?.Invoke();
 
             while (userRequestedNextLine == false) {
+                if (Input.GetKeyDown(KeyCode.Z)) {
+                    userRequestedNextLine = true;
+                }
                 yield return null;
             }
 
