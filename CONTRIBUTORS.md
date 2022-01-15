@@ -7,5 +7,8 @@ The following people have contributed to the development of Yarn Spinner. If you
 * 2017: Dr Tim 'McJones' Nugent <tim@lonely.coffee>
 * 2018: Damon 'demanrisu' Reece <de@coy.ninja>
 * 2019: Tamme Schichler <tamme@schichler.dev>
-* 2020: @Schroedingers-Cat
+* 2020: @Schroedingers-Cat, Robert Yang (https://debacle.us)
+* 2021: Jonathan MacAlpine <apocriva@gmail.com>
+* 2021: Shane Marks (https://necrosoftgames.com)
+* 2021: @andiCR, Andrés Cartín (andres@treeinteractivecr.com)
 * 2021: Shane Duan <github@xsduan.com>
